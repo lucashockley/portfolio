@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	body {
+		@apply text-sm text-gray-900;
+	}
+
+	p {
+		@apply text-gray-600;
+	}
+
+	section {
+		@apply my-12 px-3;
+	}
+
+	h2 {
+		@apply font-semibold text-base;
+	}
+
+	a {
+		@apply font-medium text-gray-900;
+	}
+}
