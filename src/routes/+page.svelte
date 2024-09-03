@@ -34,6 +34,10 @@
 	];
 </script>
 
+<svelte:head>
+	<title>Lucas Hockley</title>
+</svelte:head>
+
 <main class="max-w-xl mx-auto px-4 mb-48">
 	<section>
 		<h1 class="mt-28 mb-4 font-semibold text-3xl">Lucas Hockley</h1>
