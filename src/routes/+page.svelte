@@ -91,10 +91,9 @@
 
 		<p class="my-4">
 			I've been creating full-stack web apps for over 4 years now, focusing on designing beautiful,
-			accessible and functional experiences. In this time I've used a huge range of tech (because
-			there's always a <em>betterer</em> way to do something 🙄), so I'm used to learning new things
-			all the time. At the moment though, I'm feeling really productive with SvelteKit, Tailwind and
-			Drizzle, hosting everything via Coolify on a cheap VPS.
+			accessible and functional experiences. In this time I've used a huge range of tech, so I'm
+			used to learning new things all the time. At the moment though, I'm feeling really productive
+			with SvelteKit, Tailwind and Drizzle, hosting everything via Coolify on a cheap VPS.
 		</p>
 
 		<p class="my-4">
